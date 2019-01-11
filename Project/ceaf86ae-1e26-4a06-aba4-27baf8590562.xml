@@ -1,0 +1,4 @@
+[SLWD version=1.0]
+_EN=Variables
++GN=VAR_GLOBAL	GVT=GlobalNamespaceGroup
+++D=INT	N=változó	G=VAR_GLOBAL
